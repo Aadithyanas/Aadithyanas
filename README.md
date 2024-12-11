@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/adithyan-a-s-4a320831b/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **https://www.linkedin.com/in/adithyan-a-s-4a320831b/**</h3>
 <p align="left">
 </p>
 
