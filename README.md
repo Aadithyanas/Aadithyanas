@@ -16,7 +16,7 @@
 <ul>
   <li>🎓 <b>Education:</b> Diploma in Computer Hardware Engineering & Full Stack Development Training</li>
   <li>🌟 <b>Interests:</b> Web Development, Artificial Intelligence, and Financial Tech Solutions</li>
-  <li>📈 <b>Current Project:</b> <a href="#">Finance Manager</a> – A smart app to track income, expenses, and savings with dynamic state management and AI insights</li>
+  <li>📈 <b>Current Project:</b> <a href="https://frolicking-paletas-0dc756.netlify.app/">FlipKart Clone</a> –This project is a Flipkart Clone, a fully responsive e-commerce web application that replicates the core functionalities of Flipkart, including user authentication, product browsing, cart management, and checkout.</li>
   <li>🌐 <b>HTML Project:</b> <a href="#">Your Hostel</a> – Displaying hostel details with search functionality</li>
 </ul>
 
